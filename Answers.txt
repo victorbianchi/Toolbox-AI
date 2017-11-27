@@ -1,0 +1,3 @@
+f_cost = This number represents the minimum number of steps in the current path taken. 
+g_cost = This number represents the number of steps made in order for Paul to get to his current position. (Ex: This box is 4 steps away from the initial starting point). 
+h_cost = This number represents how far away Paul is from the goal if he stayed on the optimal path. 
